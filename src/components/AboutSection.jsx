@@ -30,7 +30,7 @@ export const AboutSection = () => {
                             <div className="text-left">
                                 <h4 className="font-semibold text-lg">Web Development</h4>
                                 <p className="text-muted-foreground">
-                                    Creating responsive websites and web applications with mordern frameworks.
+                                    Creating responsive websites and web applications with modern frameworks.
                                 </p>
                             </div>
                         </div>
