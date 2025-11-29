@@ -56,7 +56,7 @@ export const HeroSection = () => {
 
           <div className="opacity-0 animate-fade-in-delay-4">
             <a
-              href="#projects"
+              href="#project"
               className="cosmic-button relative inline-flex items-center justify-center px-8 py-3 text-lg font-semibold text-white rounded-full bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 transition-all duration-500 hover:scale-105 hover:shadow-[0_0_30px_rgba(139,92,246,0.6)]"
             >
               View My Work
