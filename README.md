@@ -3,7 +3,7 @@
 [![Vite](https://img.shields.io/badge/Built%20with-Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-19.0-blue?logo=react)](https://react.dev/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.0-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?logo=vercel)](https://my-portfolio-modern.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?logo=vercel)](https://my-portfolio-modern.vercel.app/) NOT AVAILABLE NOW
 
 > 🚀 A modern, responsive developer portfolio built with **React 19**, **Vite**, and **Tailwind CSS 4** — fast, minimal, and ready to deploy!
 
